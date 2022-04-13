@@ -65,4 +65,4 @@ a { text-decoration: none; color: rgb(0, 0, 0)  }
             grid-row-gap: 0px;
             }
             
-            .div9 { grid-area: 3 / 3 / 4 / 4; background-image:url(https://64.media.tumblr.com/a3e2a86590b6240e518b567e611595d1/tumblr_nwwbqef8Ak1u8icemo1_500.png);text-align: center; width: 225px ; height: 50px;text-align: center; border: solid rgb(0, 0, 0);font-family: Vapor; }
+            .div9 { grid-area: 3 / 3 / 4 / 4; text-align: center; font-family: vapor; }
