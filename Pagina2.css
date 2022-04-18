@@ -28,7 +28,7 @@ h3  {background-image: url(https://64.media.tumblr.com/a3e2a86590b6240e518b567e6
     background-repeat: no-repeat; background-position: center; border: solid rgba(61, 60, 60, 0.185);width: 400px ; margin: auto;
     text-align: center; font-family: vapor; }
 
-h4 {}
+h4 {color: white;}
 
 .parent {
     display: grid;
