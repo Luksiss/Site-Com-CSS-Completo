@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face {font-family: Myfirst ;
+    src:url(ARCADECLASSIC.TTF)}
+
+body {background-color: black;}
+
+p {text-align: center; color: white;font-family: MyFirst; }
+
+a {text-align: center; color: white;font-family: MyFirst; }
