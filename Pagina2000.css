@@ -9,7 +9,7 @@ p {text-align: center; color: white;font-family: MyFirst; }
 
 a {text-align: center; color: white;font-family: MyFirst; }
 
-div {
+.div {
 	perspective: 300px;	
 	display: flex;
 	justify-content: center;

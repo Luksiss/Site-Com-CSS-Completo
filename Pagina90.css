@@ -70,5 +70,5 @@ header {background-image: url(https://preview.redd.it/mg3qc1zel4t11.png?width=19
 	to {transform: rotateY(405deg);}
 }
 
-.mid {text-align: center; font-family: vapor;}
+.mid {text-align: center; font-family: vapor;color: rgb(0, 0, 0); }
 	  
